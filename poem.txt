@@ -14,3 +14,5 @@ yellow
 These are the colors of the rainbow.
 and the unicorn
 pony
+
+I am working on my own branch because i am a responsible human being. My changes might break the code temporarily, and i dont want to break the main branch, which might be used be other people.
